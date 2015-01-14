@@ -1,0 +1,8 @@
+#!/bin/sh
+dbname=$1
+data="$2"
+state="$3"
+
+DIR="$( cd "$( dirname "$0" )" && pwd )"
+cd $DIR
+php-cgi ../../../../../../db.php db=data/$dbname data="$data" state="$state"
