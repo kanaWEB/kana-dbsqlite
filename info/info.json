@@ -1,0 +1,11 @@
+{
+   "description" : "Save data inside a SQlite database",
+   "name" : "DB Sqlite",
+   "tags" : {
+      "sqlite" : {},
+      "database" : {},
+      "save" : {},
+      "db" : {}
+   },
+   "type" : "database"
+}

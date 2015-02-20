@@ -1,0 +1,11 @@
+{
+   "description" : "Sauvegarder des données dans une base de données SQLite",
+   "name" : "BD SQLite",
+   "tags" : {
+      "sqlite" : {},
+      "database" : {},
+      "save" : {},
+      "db" : {}
+   },
+   "type" : "database"
+}
